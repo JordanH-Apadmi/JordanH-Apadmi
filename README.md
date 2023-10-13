@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JordanH-Apadmi, working with Apadmi to create cool mobile applications 😎
+- 👀 I’m interested in Android Development, Kotlin and Rust development.
+- 🌱 I’m currently learning Android, Kotlin and Rust things!
+- 💞️ I’m looking to collaborate on some neat projects :D
+- 📫 How to reach me - just send me a message on here!
